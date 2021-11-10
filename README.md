@@ -1,1 +1,3 @@
 # MurbyteGameGet
+
+Собсна баг-трекер
